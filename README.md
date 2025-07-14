@@ -144,7 +144,7 @@ terraform apply
 
   <h2>📬 Contact</h2>
   <p>For questions, suggestions, or contributions, feel free to raise an issue or contact:</p>
-  <p>📧 <a href="mailto:your.email@example.com">kirdul91@gmail.com</a></p>
+  <p>📧 <a href="mailto:your.email@example.com">kmirdul91@gmail.com</a></p>
 
 </body>
 </html>
